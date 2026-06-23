@@ -50,7 +50,7 @@ Run:
 >Graphical User Interface (GUI)
 >Expense analytics and charts
 
-👩‍💻 Author
+👩‍💻 Author:-
 Ananya Jain
 B.Tech Computer Science Student
 Python Programming Intern @ DecodeLabs
